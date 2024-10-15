@@ -147,7 +147,7 @@ async function download(){
 
     const cards = []
     for(line in deck_list){
-        if(line != "" || line != "\n"){
+        if(deck_list[line] != "" || deck_list[line] != "\n"){
             //console.log("Line: " + deck_list[line])
             var sanitized = parse_card_line(deck_list[line])
             var scryfall_data = await get_from_scryfall(sanitized[2], sanitized[3])

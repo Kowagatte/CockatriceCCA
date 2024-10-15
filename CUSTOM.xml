@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+    <name>Test</name>
+    <longname>Nicks Test Set</longname>
+    <settype>Custom</settype>
+    <releasedate>2024-10-10</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+        <name>Card name</name>
+        <text>Card description and oracle text, including actions, effects, etc..</text>
+        <prop>
+            <layout>normal</layout>
+            <side>front</side>
+            <type>Instant</type>
+            <maintype>Instant</maintype>
+            <manacost>R</manacost>
+            <cmc>1</cmc>
+            <colors>R</colors>
+            <coloridentity>R</coloridentity>
+            <pt>0/2</pt>
+            <loyalty>4</loyalty>
+            <format-standard>legal</format-standard>
+            <format-commander>legal</format-commander>
+            <format-modern>legal</format-modern>
+            <format-pauper>legal</format-pauper>
+        </prop>
+        <set rarity="common" uuid="12345678-abcd-1234-abcd-1234567890ab" num="42" muid="123456" picurl="https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg">Test</set>
+        <related>Another card name</related>
+        <reverse-related>Another card name</reverse-related>
+        <tablerow>3</tablerow>
+        <cipt>1</cipt>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,1914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>Samurai</name>
+      <longname>This is a custom art deck</longname>
+      <settype>Custom</settype>
+      <releasedate>2024-10-10</releasedate>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Isshin, Two Heavens as One</name>
+      <text>If a creature attacking causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Legendary Creature — Human Samurai</type>
+          <manacost>{R}{W}{B}</manacost>
+          <cmc>3.0</cmc>
+          <colors>BRW</colors>
+          <coloridentity>BRW</coloridentity>
+          <pt>3/4</pt>
+
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="65114758-9a75-43a7-96e8-0aa68faa6b24" num="328" muid="553237" picurl="https://cards.scryfall.io/normal/front/1/b/1bf8b008-3a7c-4b6d-8c18-263a576f0d64.jpg?1654569386">Samurai</set>
+    </card>
+    <card>
+      <name>Akki Battle Squad</name>
+      <text>Whenever one or more modified creatures you control attack, untap all modified creatures you control. After this phase, there is an additional combat phase. This ability triggers only once each turn. (Equipment, Auras you control, and counters are modifications.)</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Creature — Goblin Samurai</type>
+          <manacost>{5}{R}</manacost>
+          <cmc>6.0</cmc>
+          <colors>R</colors>
+          <coloridentity>R</coloridentity>
+          <pt>6/6</pt>
+
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>not_legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="5bd81d2f-46a1-4536-92e7-28c7e1892735" num="57" muid="553730" picurl="https://cards.scryfall.io/normal/front/b/2/b2a2b1f5-bbc7-4af1-b1c8-21570b141cba.jpg?1648863033">Samurai</set>
+    </card>
+    <card>
+      <name>Akki Ronin</name>
+      <text>Whenever a Samurai or Warrior you control attacks alone, you may discard a card. If you do, draw a card.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Creature — Goblin Samurai</type>
+          <manacost>{1}{R}</manacost>
+          <cmc>2.0</cmc>
+          <colors>R</colors>
+          <coloridentity>R</coloridentity>
+          <pt>1/3</pt>
+
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="4b4c76e1-c480-4d10-93d4-483ef2debc4b" num="319" muid="553228" picurl="https://cards.scryfall.io/normal/front/f/a/fa16ee8e-d33a-40e9-9956-e345f0511819.jpg?1654569299">Samurai</set>
+    </card>
+    <card>
+      <name>Ancestral Katana</name>
+      <text>Whenever a Samurai or Warrior you control attacks alone, you may pay {1}. When you do, attach Ancestral Katana to it.
+Equipped creature gets +2/+1.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Artifact — Equipment</type>
+          <manacost>{1}{W}</manacost>
+          <cmc>2.0</cmc>
+          <colors>W</colors>
+          <coloridentity>W</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="13a9b9fd-20fa-4734-9d95-3ab41ab9c7a0" num="1" muid="548291" picurl="https://cards.scryfall.io/normal/front/d/9/d9b1ed43-ee6c-43a2-ba94-5bf71c63e070.jpg?1654566140">Samurai</set>
+    </card>
+    <card>
+      <name>Angelic Benediction</name>
+      <text>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Whenever a creature you control attacks alone, you may tap target creature.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Enchantment</type>
+          <manacost>{3}{W}</manacost>
+          <cmc>4.0</cmc>
+          <colors>W</colors>
+          <coloridentity>W</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="6b19377c-f178-49cb-95f8-fd3451acc7cf" num="3" muid="174826" picurl="https://cards.scryfall.io/normal/front/d/d/dd1b9071-7dde-4128-8b18-1d7b07904638.jpg?1562709790">Samurai</set>
+    </card>
+    <card>
+      <name>Angelic Exaltation</name>
+      <text>Whenever a creature you control attacks alone, it gets +X/+X until end of turn, where X is the number of creatures you control.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Enchantment</type>
+          <manacost>{3}{W}</manacost>
+          <cmc>4.0</cmc>
+          <colors>W</colors>
+          <coloridentity>W</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="507d2f27-08a9-4938-b191-5734cda42ef2" num="2" muid="457146" picurl="https://cards.scryfall.io/normal/front/e/e/ee7b5ae5-0f6b-4f45-8597-4e6212d2ad0e.jpg?1584829828">Samurai</set>
+    </card>
+    <card>
+      <name>Arcane Signet</name>
+      <text>{T}: Add one mana of any color in your commander's color identity.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Artifact</type>
+          <manacost>{2}</manacost>
+          <cmc>2.0</cmc>
+          <colors></colors>
+          <coloridentity></coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="0bc7f093-bef0-4f1a-852c-4b75ebf54838" num="144" muid="554226" picurl="https://cards.scryfall.io/normal/front/7/b/7bdf4615-7a08-40fe-9e04-cdbe10a62e06.jpg?1651656213">Samurai</set>
+    </card>
+    <card>
+      <name>Asari Captain</name>
+      <text>Haste
+Whenever a Samurai or Warrior you control attacks alone, it gets +1/+0 until end of turn for each Samurai or Warrior you control.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Creature — Human Samurai</type>
+          <manacost>{3}{R}{W}</manacost>
+          <cmc>5.0</cmc>
+          <colors>RW</colors>
+          <coloridentity>RW</coloridentity>
+          <pt>4/3</pt>
+
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="32e7385e-525e-4925-8cfd-bfea21fcd1bf" num="215" muid="548526" picurl="https://cards.scryfall.io/normal/front/8/3/834b4e6a-1812-4399-8fe4-bb1686ba49ef.jpg?1654568396">Samurai</set>
+    </card>
+    <card>
+      <name>Banishing Slash</name>
+      <text>Destroy up to one target artifact, enchantment, or tapped creature. Then if you control an artifact and an enchantment, create a 2/2 white Samurai creature token with vigilance.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Sorcery</type>
+          <manacost>{W}{W}</manacost>
+          <cmc>2.0</cmc>
+          <colors>W</colors>
+          <coloridentity>W</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="2800830c-73c6-4097-be7b-d698c6813c38" num="3" muid="548293" picurl="https://cards.scryfall.io/normal/front/e/4/e4b8946b-6604-49ca-98db-18a540b1b4e5.jpg?1654566160">Samurai</set>
+    </card>
+    <card>
+      <name>Blade of the Oni</name>
+      <text>Menace
+Equipped creature has base power and toughness 5/5, has menace, and is a black Demon in addition to its other colors and types.
+Reconfigure {2}{B}{B} ({2}{B}{B}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Artifact Creature — Equipment Demon</type>
+          <manacost>{1}{B}</manacost>
+          <cmc>2.0</cmc>
+          <colors>B</colors>
+          <coloridentity>B</coloridentity>
+          <pt>3/1</pt>
+
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="mythic" uuid="6d9ac636-3c6c-40ca-90f3-1a3387836bb4" num="420" muid="" picurl="https://cards.scryfall.io/normal/front/2/0/2029be79-88d8-4d15-a7d7-f5b8d469ad54.jpg?1683836692">Samurai</set>
+    </card>
+    <card>
+      <name>Blood Crypt</name>
+      <text>({T}: Add {B} or {R}.)
+As Blood Crypt enters, you may pay 2 life. If you don't, it enters tapped.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Land — Swamp Mountain</type>
+          <manacost></manacost>
+          <cmc>0.0</cmc>
+          <colors></colors>
+          <coloridentity>BR</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="43985bbc-a0f6-4812-984e-392bc8562633" num="245p" muid="" picurl="https://cards.scryfall.io/normal/front/3/d/3d7c66e7-2b43-443f-998c-80613735a87f.jpg?1570827679">Samurai</set>
+    </card>
+    <card>
+      <name>Bloodfell Caves</name>
+      <text>Bloodfell Caves enters tapped.
+When Bloodfell Caves enters, you gain 1 life.
+{T}: Add {B} or {R}.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Land</type>
+          <manacost></manacost>
+          <cmc>0.0</cmc>
+          <colors></colors>
+          <coloridentity>BR</coloridentity>
+          
+          <format-standard>legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="64e29bfc-9313-4e8c-808c-bc27f6b018a6" num="229" muid="386491" picurl="https://cards.scryfall.io/normal/front/1/5/15a7b30a-c59f-4a87-9e8a-b29daea27422.jpg?1562782962">Samurai</set>
+    </card>
+    <card>
+      <name>Boros Charm</name>
+      <text>Choose one —
+• Boros Charm deals 4 damage to target player or planeswalker.
+• Permanents you control gain indestructible until end of turn.
+• Target creature gains double strike until end of turn.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Instant</type>
+          <manacost>{R}{W}</manacost>
+          <cmc>2.0</cmc>
+          <colors>RW</colors>
+          <coloridentity>RW</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="2679d0dd-ba30-4a1c-b6a0-b3ac6c790496" num="148" muid="366435" picurl="https://cards.scryfall.io/normal/front/d/4/d4ddf9cc-40a7-4b4f-bb51-b08171453c9a.jpg?1561848093">Samurai</set>
+    </card>
+    <card>
+      <name>Boros Garrison</name>
+      <text>Boros Garrison enters tapped.
+When Boros Garrison enters, return a land you control to its owner's hand.
+{T}: Add {R}{W}.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Land</type>
+          <manacost></manacost>
+          <cmc>0.0</cmc>
+          <colors></colors>
+          <coloridentity>RW</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="8fa3ac81-3dfe-4565-be99-5554f7597b4b" num="282" muid="519317" picurl="https://cards.scryfall.io/normal/front/7/6/768f5949-831d-4aa8-b35a-719c36cb7134.jpg?1625979870">Samurai</set>
+    </card>
+    <card>
+      <name>Boros Signet</name>
+      <text>{1}, {T}: Add {R}{W}.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Artifact</type>
+          <manacost>{2}</manacost>
+          <cmc>2.0</cmc>
+          <colors></colors>
+          <coloridentity>RW</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="41c84665-1f99-40ab-aaca-1188649eb263" num="239" muid="482867" picurl="https://cards.scryfall.io/normal/front/c/6/c6b1edb0-47ee-4679-93e8-0a06138f9c5e.jpg?1591321573">Samurai</set>
+    </card>
+    <card>
+      <name>Brave the Sands</name>
+      <text>Creatures you control have vigilance.
+Each creature you control can block an additional creature each combat.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Enchantment</type>
+          <manacost>{1}{W}</manacost>
+          <cmc>2.0</cmc>
+          <colors>W</colors>
+          <coloridentity>W</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="4e89bd75-f59d-4f08-be51-5660fbbba3c2" num="19" muid="446755" picurl="https://cards.scryfall.io/normal/front/0/9/09ab8b60-cdb1-43a8-b180-b562bb89b5a1.jpg?1562272394">Samurai</set>
+    </card>
+    <card>
+      <name>Cathedral of War</name>
+      <text>Cathedral of War enters tapped.
+Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+{T}: Add {C}.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Land</type>
+          <manacost></manacost>
+          <cmc>0.0</cmc>
+          <colors></colors>
+          <coloridentity></coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="5ff647e4-730a-498f-8f2c-5bd64d5a9780" num="221" muid="259680" picurl="https://cards.scryfall.io/normal/front/d/d/dd222c07-0b28-41cb-9237-ad7991ab078f.jpg?1562560901">Samurai</set>
+    </card>
+    <card>
+      <name>Clifftop Retreat</name>
+      <text>Clifftop Retreat enters tapped unless you control a Mountain or a Plains.
+{T}: Add {R} or {W}.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Land</type>
+          <manacost></manacost>
+          <cmc>0.0</cmc>
+          <colors></colors>
+          <coloridentity>RW</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="d7faa3c8-46cf-46b2-bfa4-89000307cf18" num="238" muid="241980" picurl="https://cards.scryfall.io/normal/front/f/d/fd7e1bf9-bd6a-48e3-9331-178e5142c06a.jpg?1562840222">Samurai</set>
+    </card>
+    <card>
+      <name>Command Tower</name>
+      <text>{T}: Add one mana of any color in your commander's color identity.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Land</type>
+          <manacost></manacost>
+          <cmc>0.0</cmc>
+          <colors></colors>
+          <coloridentity></coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="0895c9b7-ae7d-4bb3-af17-3b75deb50a25" num="479" muid="500959" picurl="https://cards.scryfall.io/normal/front/6/4/64e72ac3-2b4f-43d8-9708-afe1b67c5d00.jpg?1613501799">Samurai</set>
+    </card>
+    <card>
+      <name>Commander's Sphere</name>
+      <text>{T}: Add one mana of any color in your commander's color identity.
+Sacrifice Commander's Sphere: Draw a card.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Artifact</type>
+          <manacost>{3}</manacost>
+          <cmc>3.0</cmc>
+          <colors></colors>
+          <coloridentity></coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>not_legal</format-modern>
+          <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="0b67c4e2-f88b-4e01-85a1-9d5f5b8db13b" num="306" muid="497826" picurl="https://cards.scryfall.io/normal/front/a/0/a01c16a5-bc50-406f-9ab1-e8346acffbca.jpg?1608911388">Samurai</set>
+    </card>
+    <card>
+      <name>Demonic Tutor</name>
+      <text>Search your library for a card, put that card into your hand, then shuffle.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Sorcery</type>
+          <manacost>{1}{B}</manacost>
+          <cmc>2.0</cmc>
+          <colors>B</colors>
+          <coloridentity>B</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>not_legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="mythic" uuid="82004860-e589-4e38-8d61-8c0210e4ea39" num="90" muid="" picurl="https://cards.scryfall.io/normal/front/9/9/99b6e466-784b-48a6-8e72-beff72f39231.jpg?1624502333">Samurai</set>
+    </card>
+    <card>
+      <name>Despark</name>
+      <text>Exile target permanent with mana value 4 or greater.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Instant</type>
+          <manacost>{W}{B}</manacost>
+          <cmc>2.0</cmc>
+          <colors>BW</colors>
+          <coloridentity>BW</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="bd16434d-55ea-4c5a-a9ef-752971a4af16" num="190" muid="461117" picurl="https://cards.scryfall.io/normal/front/3/2/32b17dfc-b916-4134-ba77-501cff435e7e.jpg?1615415475">Samurai</set>
+    </card>
+    <card>
+      <name>Diabolic Tutor</name>
+      <text>Search your library for a card, put that card into your hand, then shuffle.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Sorcery</type>
+          <manacost>{2}{B}{B}</manacost>
+          <cmc>4.0</cmc>
+          <colors>B</colors>
+          <coloridentity>B</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="14589b6b-1814-46f9-a364-83cc15dacac2" num="75" muid="417648" picurl="https://cards.scryfall.io/normal/front/0/6/06750380-a9a9-4ab4-a03b-d4d35a31132a.jpg?1576381562">Samurai</set>
+    </card>
+    <card>
+      <name>Duelist's Heritage</name>
+      <text>Whenever one or more creatures attack, you may have target attacking creature gain double strike until end of turn.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Enchantment</type>
+          <manacost>{2}{W}</manacost>
+          <cmc>3.0</cmc>
+          <colors>W</colors>
+          <coloridentity>W</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>not_legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="5cdc4654-b8c5-4599-a1d2-9e9d5f6509cb" num="101" muid="489585" picurl="https://cards.scryfall.io/normal/front/f/e/fefef556-dd3c-49b9-a6f5-8b86af64416e.jpg?1600696343">Samurai</set>
+    </card>
+    <card>
+      <name>Eater of Virtue</name>
+      <text>Whenever equipped creature dies, exile it.
+Equipped creature gets +2/+0.
+As long as a card exiled with Eater of Virtue has flying, equipped creature has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, protection, reach, trample, and vigilance.
+Equip {1}</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Legendary Artifact — Equipment</type>
+          <manacost>{1}</manacost>
+          <cmc>1.0</cmc>
+          <colors></colors>
+          <coloridentity></coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="b6f8cc3b-b8f1-4b1a-8768-eddcb0631d80" num="401" muid="552275" picurl="https://cards.scryfall.io/normal/front/f/1/f103cb00-29f7-41ad-8368-ed2cf1a408ea.jpg?1693466197">Samurai</set>
+    </card>
+    <card>
+      <name>Eiganjo Exemplar</name>
+      <text>Whenever a Samurai or Warrior you control attacks alone, it gets +1/+1 until end of turn.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Enchantment Creature — Human Samurai</type>
+          <manacost>{1}{W}</manacost>
+          <cmc>2.0</cmc>
+          <colors>W</colors>
+          <coloridentity>W</coloridentity>
+          <pt>2/1</pt>
+
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="8e0f4e22-0677-4246-a4c5-6fcc74cb54a3" num="309" muid="553218" picurl="https://cards.scryfall.io/normal/front/6/c/6c85917c-60ea-44d3-8483-fa639564e881.jpg?1654569200">Samurai</set>
+    </card>
+    <card>
+      <name>Eiganjo Uprising</name>
+      <text>Create X 2/2 white Samurai creature tokens with vigilance. They gain menace and haste until end of turn.
+Each opponent creates X minus one 2/2 white Samurai creature tokens with vigilance.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Sorcery</type>
+          <manacost>{X}{R}{W}</manacost>
+          <cmc>2.0</cmc>
+          <colors>RW</colors>
+          <coloridentity>RW</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="fe2fe9f2-908b-49a9-9648-b01e0417a364" num="396" muid="552270" picurl="https://cards.scryfall.io/normal/front/7/a/7a560ff4-446e-4dd0-87a6-145a27bdcdb9.jpg?1654570157">Samurai</set>
+    </card>
+    <card>
+      <name>Eiganjo, Seat of the Empire</name>
+      <text>{T}: Add {W}.
+Channel — {2}{W}, Discard Eiganjo, Seat of the Empire: It deals 4 damage to target attacking or blocking creature. This ability costs {1} less to activate for each legendary creature you control.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Legendary Land</type>
+          <manacost></manacost>
+          <cmc>0.0</cmc>
+          <colors></colors>
+          <coloridentity>W</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="7edb3d15-4f70-4ebe-8c5e-caf6a225076d" num="413" muid="552123" picurl="https://cards.scryfall.io/normal/front/7/c/7c31c48f-6275-4430-8dc9-05d70c332b7a.jpg?1647145088">Samurai</set>
+    </card>
+    <card>
+      <name>Fellwar Stone</name>
+      <text>{T}: Add one mana of any color that a land an opponent controls could produce.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Artifact</type>
+          <manacost>{2}</manacost>
+          <cmc>2.0</cmc>
+          <colors></colors>
+          <coloridentity></coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="95560508-7ac9-4be9-8a3f-3c7d5b52807b" num="150" muid="554232" picurl="https://cards.scryfall.io/normal/front/b/b/bb2f8ecb-a2d6-4500-b3c0-3a8a1c55a9fe.jpg?1651656272">Samurai</set>
+    </card>
+    <card>
+      <name>Fervent Charge</name>
+      <text>Whenever a creature you control attacks, it gets +2/+2 until end of turn.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Enchantment</type>
+          <manacost>{1}{R}{W}{B}</manacost>
+          <cmc>4.0</cmc>
+          <colors>BRW</colors>
+          <coloridentity>BRW</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>not_legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="6226db2b-d1a8-4c41-b802-67d3f65d2ca3" num="98" muid="28011" picurl="https://cards.scryfall.io/normal/front/d/6/d610a9d5-c650-45ad-a9b0-b55113701e05.jpg?1562946049">Samurai</set>
+    </card>
+    <card>
+      <name>Flawless Maneuver</name>
+      <text>If you control a commander, you may cast this spell without paying its mana cost.
+Creatures you control gain indestructible until end of turn.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Instant</type>
+          <manacost>{2}{W}</manacost>
+          <cmc>3.0</cmc>
+          <colors>W</colors>
+          <coloridentity>W</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>not_legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="4e183439-17d2-47ff-9d99-5e22821d91e3" num="26" muid="484873" picurl="https://cards.scryfall.io/normal/front/c/9/c972abe6-c732-4745-bde4-8b51698f05be.jpg?1690817873">Samurai</set>
+    </card>
+    <card>
+      <name>General's Kabuto</name>
+      <text>Equipped creature has shroud. (It can't be the target of spells or abilities.)
+Prevent all combat damage that would be dealt to equipped creature.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Artifact — Equipment</type>
+          <manacost>{4}</manacost>
+          <cmc>4.0</cmc>
+          <colors></colors>
+          <coloridentity></coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="cf17889e-9201-4af7-bc2a-9539b04fea15" num="251" muid="79862" picurl="https://cards.scryfall.io/normal/front/1/3/1382c339-256f-4ba1-a4cc-6307d0859964.jpg?1562757909">Samurai</set>
+    </card>
+    <card>
+      <name>Godless Shrine</name>
+      <text>({T}: Add {W} or {B}.)
+As Godless Shrine enters, you may pay 2 life. If you don't, it enters tapped.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Land — Plains Swamp</type>
+          <manacost></manacost>
+          <cmc>0.0</cmc>
+          <colors></colors>
+          <coloridentity>BW</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="73864fcc-1bde-4bc0-831e-2b93e546e417" num="248" muid="457392" picurl="https://cards.scryfall.io/normal/front/c/e/ced4c824-2dfc-42ae-84e6-09f8e3f51b5b.jpg?1584832255">Samurai</set>
+    </card>
+    <card>
+      <name>Goro-Goro, Disciple of Ryusei</name>
+      <text>{R}: Creatures you control gain haste until end of turn.
+{3}{R}{R}: Create a 5/5 red Dragon Spirit creature token with flying. Activate only if you control an attacking modified creature. (Equipment, Auras you control, and counters are modifications.)</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Legendary Creature — Goblin Samurai</type>
+          <manacost>{1}{R}</manacost>
+          <cmc>2.0</cmc>
+          <colors>R</colors>
+          <coloridentity>R</coloridentity>
+          <pt>2/2</pt>
+
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="b80df711-af51-4f9a-9a3f-f7a4cddc9c2c" num="320" muid="553229" picurl="https://cards.scryfall.io/normal/front/8/6/862e9b05-209d-47d6-8692-ec0cb5f19e25.jpg?1654569301">Samurai</set>
+    </card>
+    <card>
+      <name>Haunted Ridge</name>
+      <text>Haunted Ridge enters tapped unless you control two or more other lands.
+{T}: Add {B} or {R}.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Land</type>
+          <manacost></manacost>
+          <cmc>0.0</cmc>
+          <colors></colors>
+          <coloridentity>BR</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="e2a37967-4212-4553-9f77-bcb613405807" num="263" muid="535061" picurl="https://cards.scryfall.io/normal/front/b/2/b200e822-be36-4e59-bd0e-9d0188a68df8.jpg?1655879799">Samurai</set>
+    </card>
+    <card>
+      <name>Heiko Yamazaki, the General</name>
+      <text>Trample
+Whenever a Samurai or Warrior you control attacks alone, you may cast target artifact card from your graveyard this turn.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Legendary Creature — Human Samurai</type>
+          <manacost>{3}{R}</manacost>
+          <cmc>4.0</cmc>
+          <colors>R</colors>
+          <coloridentity>R</coloridentity>
+          <pt>3/3</pt>
+
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="a4d67f2d-6b0f-4feb-bf7d-90ab4f2e46ab" num="321" muid="553230" picurl="https://cards.scryfall.io/normal/front/c/9/c91040c0-f025-4843-8c0e-3ac1b76c8582.jpg?1689700579">Samurai</set>
+    </card>
+    <card>
+      <name>Herald's Horn</name>
+      <text>As Herald's Horn enters, choose a creature type.
+Creature spells you cast of the chosen type cost {1} less to cast.
+At the beginning of your upkeep, look at the top card of your library. If it's a creature card of the chosen type, you may reveal it and put it into your hand.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Artifact</type>
+          <manacost>{3}</manacost>
+          <cmc>3.0</cmc>
+          <colors></colors>
+          <coloridentity></coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>not_legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="c02c5547-b9c9-4b2d-9d12-e87bfba8f2d2" num="469" muid="489452" picurl="https://cards.scryfall.io/normal/front/e/6/e64d51b3-20a2-4cc3-bd70-7f165940c157.jpg?1601080735">Samurai</set>
+    </card>
+    <card>
+      <name>Iizuka the Ruthless</name>
+      <text>Bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)
+{2}{R}, Sacrifice a Samurai: Samurai creatures you control gain double strike until end of turn.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Legendary Creature — Human Samurai</type>
+          <manacost>{3}{R}{R}</manacost>
+          <cmc>5.0</cmc>
+          <colors>R</colors>
+          <coloridentity>R</coloridentity>
+          <pt>3/3</pt>
+
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="4f40d66a-1fd8-4b06-b6cb-9cbcf33bc041" num="104" muid="79860" picurl="https://cards.scryfall.io/normal/front/9/c/9ce461f7-385d-4379-83de-49571247c30d.jpg?1562495128">Samurai</set>
+    </card>
+    <card>
+      <name>Imperial Subduer</name>
+      <text>Whenever a Samurai or Warrior you control attacks alone, tap target creature you don't control.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Creature — Human Samurai</type>
+          <manacost>{2}{W}</manacost>
+          <cmc>3.0</cmc>
+          <colors>W</colors>
+          <coloridentity>W</coloridentity>
+          <pt>3/2</pt>
+
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="bedf1dd5-b133-455b-bc3d-c7b1f469d91f" num="310" muid="553219" picurl="https://cards.scryfall.io/normal/front/4/1/41e7420e-55d0-4f4b-84bb-e5b86616cbb3.jpg?1654569205">Samurai</set>
+    </card>
+    <card>
+      <name>Ironsoul Enforcer</name>
+      <text>Whenever Ironsoul Enforcer or a commander you control attacks alone, return target artifact card from your graveyard to the battlefield.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Artifact Creature — Human Samurai</type>
+          <manacost>{4}{W}</manacost>
+          <cmc>5.0</cmc>
+          <colors>W</colors>
+          <coloridentity>W</coloridentity>
+          <pt>4/4</pt>
+
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>not_legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="a613b00e-d6e8-4470-a7dc-5eab5e48dce0" num="41" muid="553714" picurl="https://cards.scryfall.io/normal/front/a/1/a1dd6730-b869-40fe-9188-c762a663b5e9.jpg?1648839829">Samurai</set>
+    </card>
+    <card>
+      <name>Isolated Chapel</name>
+      <text>Isolated Chapel enters tapped unless you control a Plains or a Swamp.
+{T}: Add {W} or {B}.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Land</type>
+          <manacost></manacost>
+          <cmc>0.0</cmc>
+          <colors></colors>
+          <coloridentity>BW</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="7e5d9efe-48a9-434b-bb09-056e0e09cc9a" num="242" muid="241979" picurl="https://cards.scryfall.io/normal/front/b/3/b3c1a371-5ded-4a3a-bf96-503c4f1a665d.jpg?1562835813">Samurai</set>
+    </card>
+    <card>
+      <name>Lightning Greaves</name>
+      <text>Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)
+Equip {0}</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Artifact — Equipment</type>
+          <manacost>{2}</manacost>
+          <cmc>2.0</cmc>
+          <colors></colors>
+          <coloridentity></coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="ca204b66-8d0c-431a-8d34-282f7c2d17da" num="110" muid="220528" picurl="https://cards.scryfall.io/normal/front/b/5/b5e96b75-1797-491f-8324-0f60aace1305.jpg?1562933419">Samurai</set>
+    </card>
+    <card>
+      <name>Lizard Blades</name>
+      <text>Double strike
+Equipped creature has double strike.
+Reconfigure {2} ({2}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn't a creature.)</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Artifact Creature — Equipment Lizard</type>
+          <manacost>{1}{R}</manacost>
+          <cmc>2.0</cmc>
+          <colors>R</colors>
+          <coloridentity>R</coloridentity>
+          <pt>1/1</pt>
+
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="f6314e50-a610-4fff-8f60-803d23460ff0" num="385" muid="552259" picurl="https://cards.scryfall.io/normal/front/f/0/f0cadc1b-3434-4c38-b414-0f5ab4ca52a0.jpg?1654570029">Samurai</set>
+    </card>
+    <card>
+      <name>Mountain</name>
+      <text>({T}: Add {R}.)</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Basic Land — Mountain</type>
+          <manacost></manacost>
+          <cmc>0.0</cmc>
+          <colors></colors>
+          <coloridentity>R</coloridentity>
+          
+          <format-standard>legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="a3fb7228-e76b-4e96-a40e-20b5fed75685" num="299" muid="553576" picurl="https://cards.scryfall.io/normal/front/0/3/03cd5953-37fc-4a8a-89f8-0b5dd8412dc9.jpg?1655495450">Samurai</set>
+    </card>
+    <card>
+      <name>Nagao, Bound by Honor</name>
+      <text>Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)
+Whenever Nagao, Bound by Honor attacks, Samurai creatures you control get +1/+1 until end of turn.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Legendary Creature — Human Samurai</type>
+          <manacost>{3}{W}</manacost>
+          <cmc>4.0</cmc>
+          <colors>W</colors>
+          <coloridentity>W</coloridentity>
+          <pt>3/3</pt>
+
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="6207ec81-342a-49e4-ae07-426397eef0ec" num="36" muid="79136" picurl="https://cards.scryfall.io/normal/front/a/4/a45258f4-c36d-46cc-80e8-cc458351e003.jpg?1562763425">Samurai</set>
+    </card>
+    <card>
+      <name>Nezumi Bladeblesser</name>
+      <text>Nezumi Bladeblesser has deathtouch as long as you control an artifact.
+Nezumi Bladeblesser has menace as long as you control an enchantment. (It can't be blocked except by two or more creatures.)</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Creature — Rat Samurai</type>
+          <manacost>{2}{B}</manacost>
+          <cmc>3.0</cmc>
+          <colors>B</colors>
+          <coloridentity>B</coloridentity>
+          <pt>3/2</pt>
+
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="408512c7-5016-4df4-b708-b7467bcdf0ae" num="318" muid="553227" picurl="https://cards.scryfall.io/normal/front/3/1/317bdf0d-df7d-4ca2-8131-060ba7cf2602.jpg?1654569282">Samurai</set>
+    </card>
+    <card>
+      <name>Nomad Outpost</name>
+      <text>Nomad Outpost enters tapped.
+{T}: Add {R}, {W}, or {B}.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Land</type>
+          <manacost></manacost>
+          <cmc>0.0</cmc>
+          <colors></colors>
+          <coloridentity>BRW</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="4619de7e-3d6e-4c6b-8e6e-e24db324839d" num="294" muid="482922" picurl="https://cards.scryfall.io/normal/front/f/3/f32ff85d-0a5d-4bab-adc3-27a140ebef1d.jpg?1591322264">Samurai</set>
+    </card>
+    <card>
+      <name>Norika Yamazaki, the Poet</name>
+      <text>Vigilance
+Whenever a Samurai or Warrior you control attacks alone, you may cast target enchantment card from your graveyard this turn.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Legendary Creature — Human Samurai</type>
+          <manacost>{2}{W}</manacost>
+          <cmc>3.0</cmc>
+          <colors>W</colors>
+          <coloridentity>W</coloridentity>
+          <pt>3/2</pt>
+
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="6f143c8f-cb5c-4abc-a01b-b6813f5a524c" num="311" muid="553220" picurl="https://cards.scryfall.io/normal/front/3/4/344df5c2-a963-42e3-b61b-1712f15e1eb9.jpg?1689700596">Samurai</set>
+    </card>
+    <card>
+      <name>Oathkeeper, Takeno's Daisho</name>
+      <text>Equipped creature gets +3/+1.
+Whenever equipped creature dies, return that card to the battlefield under your control if it's a Samurai card.
+When Oathkeeper, Takeno's Daisho is put into a graveyard from the battlefield, exile equipped creature.
+Equip {2}</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Legendary Artifact — Equipment</type>
+          <manacost>{3}</manacost>
+          <cmc>3.0</cmc>
+          <colors></colors>
+          <coloridentity></coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="7d58b478-a64b-46e9-b62a-08c6c1ca7c13" num="265" muid="50484" picurl="https://cards.scryfall.io/normal/front/0/1/01b7c8e4-db88-48f3-bfd5-8d990f449b1c.jpg?1562757084">Samurai</set>
+    </card>
+    <card>
+      <name>Orzhov Basilica</name>
+      <text>Orzhov Basilica enters tapped.
+When Orzhov Basilica enters, return a land you control to its owner's hand.
+{T}: Add {W}{B}.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Land</type>
+          <manacost></manacost>
+          <cmc>0.0</cmc>
+          <colors></colors>
+          <coloridentity>BW</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="aa00ae0b-7c0f-427e-8102-ce0e2a6af5df" num="297" muid="482925" picurl="https://cards.scryfall.io/normal/front/a/7/a732e2cc-325f-429b-a933-fc4cbcc395c9.jpg?1591322306">Samurai</set>
+    </card>
+    <card>
+      <name>Orzhov Signet</name>
+      <text>{1}, {T}: Add {W}{B}.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Artifact</type>
+          <manacost>{2}</manacost>
+          <cmc>2.0</cmc>
+          <colors></colors>
+          <coloridentity>BW</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="de3dcb5d-775a-479f-99f5-d1883ed9b1b5" num="255" muid="247285" picurl="https://cards.scryfall.io/normal/front/4/a/4ac7b40c-4528-4abb-8632-368947e07fd5.jpg?1592714473">Samurai</set>
+    </card>
+    <card>
+      <name>Path of Ancestry</name>
+      <text>Path of Ancestry enters tapped.
+{T}: Add one mana of any color in your commander's color identity. When that mana is spent to cast a creature spell that shares a creature type with your commander, scry 1. (Look at the top card of your library. You may put that card on the bottom.)</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Land</type>
+          <manacost></manacost>
+          <cmc>0.0</cmc>
+          <colors></colors>
+          <coloridentity></coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>not_legal</format-modern>
+          <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="b473e293-59e3-4e04-acf2-622604aeb25f" num="177" muid="545797" picurl="https://cards.scryfall.io/normal/front/9/2/92031493-b21f-4029-a01b-0a5c1ddb4776.jpg?1641604193">Samurai</set>
+    </card>
+    <card>
+      <name>Path to Exile</name>
+      <text>Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Instant</type>
+          <manacost>{W}</manacost>
+          <cmc>1.0</cmc>
+          <colors>W</colors>
+          <coloridentity>W</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="d683d985-9888-4d21-8b5f-69e69ce4a03b" num="4" muid="220511" picurl="https://cards.scryfall.io/normal/front/a/9/a9851a6e-a8be-4c1f-9e44-4bdf06d9d010.jpg?1562930762">Samurai</set>
+    </card>
+    <card>
+      <name>Peerless Samurai</name>
+      <text>Menace (This creature can't be blocked except by two or more creatures.)
+Whenever a Samurai or Warrior you control attacks alone, the next spell you cast this turn costs {1} less to cast.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Creature — Human Samurai</type>
+          <manacost>{2}{R}</manacost>
+          <cmc>3.0</cmc>
+          <colors>R</colors>
+          <coloridentity>R</coloridentity>
+          <pt>2/3</pt>
+
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="fe3b0393-dc50-4fa6-9b3f-1175a6a825e4" num="322" muid="553231" picurl="https://cards.scryfall.io/normal/front/2/4/247c362c-bf21-4bca-89d4-54eb60806f10.jpg?1654569324">Samurai</set>
+    </card>
+    <card>
+      <name>Plains</name>
+      <text>({T}: Add {W}.)</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Basic Land — Plains</type>
+          <manacost></manacost>
+          <cmc>0.0</cmc>
+          <colors></colors>
+          <coloridentity>W</coloridentity>
+          
+          <format-standard>legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="bc71ebf6-2056-41f7-be35-b2e5c34afa99" num="293" muid="553570" picurl="https://cards.scryfall.io/normal/front/c/a/ca8fb179-7e81-4b20-8b81-ea1aa97afe58.jpg?1669724057">Samurai</set>
+    </card>
+    <card>
+      <name>Raiyuu, Storm's Edge</name>
+      <text>First strike
+Whenever a Samurai or Warrior you control attacks alone, untap it. If it's the first combat phase of the turn, there is an additional combat phase after this phase.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Legendary Creature — Human Samurai</type>
+          <manacost>{2}{R}{W}</manacost>
+          <cmc>4.0</cmc>
+          <colors>RW</colors>
+          <coloridentity>RW</coloridentity>
+          <pt>3/3</pt>
+
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="9028f726-50c7-49f3-8386-e584415dcba2" num="329" muid="553238" picurl="https://cards.scryfall.io/normal/front/1/0/1026485e-3df5-4ac7-baa1-06bff537a506.jpg?1654569399">Samurai</set>
+    </card>
+    <card>
+      <name>Rakdos Carnarium</name>
+      <text>Rakdos Carnarium enters tapped.
+When Rakdos Carnarium enters, return a land you control to its owner's hand.
+{T}: Add {B}{R}.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Land</type>
+          <manacost></manacost>
+          <cmc>0.0</cmc>
+          <colors></colors>
+          <coloridentity>BR</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="0a023964-2905-4928-9c3e-dc63e6ebd218" num="300" muid="482928" picurl="https://cards.scryfall.io/normal/front/7/1/719ceec2-bc20-49b7-9e87-6af1a7992b5a.jpg?1591322345">Samurai</set>
+    </card>
+    <card>
+      <name>Rakdos Signet</name>
+      <text>{1}, {T}: Add {B}{R}.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Artifact</type>
+          <manacost>{2}</manacost>
+          <cmc>2.0</cmc>
+          <colors></colors>
+          <coloridentity>BR</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="3adb7681-977f-4a32-9ec8-51481b958268" num="166" muid="545786" picurl="https://cards.scryfall.io/normal/front/7/a/7a2af4c1-9546-4760-8aac-315b61127304.jpg?1641603829">Samurai</set>
+    </card>
+    <card>
+      <name>Reinforced Ronin</name>
+      <text>Haste
+At the beginning of your end step, return Reinforced Ronin to its owner's hand.
+Channel — {1}{R}, Discard Reinforced Ronin: Draw a card.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Artifact Creature — Human Samurai</type>
+          <manacost>{R}</manacost>
+          <cmc>1.0</cmc>
+          <colors>R</colors>
+          <coloridentity>R</coloridentity>
+          <pt>2/2</pt>
+
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="5e891927-b6cb-40ae-8270-0e72820fd7f5" num="323" muid="553232" picurl="https://cards.scryfall.io/normal/front/a/6/a69eec2f-eec0-491f-944c-ca944d9d320b.jpg?1654569338">Samurai</set>
+    </card>
+    <card>
+      <name>Reliquary Tower</name>
+      <text>You have no maximum hand size.
+{T}: Add {C}.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Land</type>
+          <manacost></manacost>
+          <cmc>0.0</cmc>
+          <colors></colors>
+          <coloridentity></coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="c23e5b80-08d2-4e24-9908-fe2aa4f30f6f" num="262" muid="446998" picurl="https://cards.scryfall.io/normal/front/2/8/2841a331-c915-44b9-8af3-c6991b1d05d3.jpg?1562272931">Samurai</set>
+    </card>
+    <card>
+      <name>Revenge of Ravens</name>
+      <text>Whenever a creature attacks you or a planeswalker you control, that creature's controller loses 1 life and you gain 1 life.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Enchantment</type>
+          <manacost>{3}{B}</manacost>
+          <cmc>4.0</cmc>
+          <colors>B</colors>
+          <coloridentity>B</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="dd96f145-73eb-4a6d-bcfd-5d6313fac1f9" num="104" muid="473066" picurl="https://cards.scryfall.io/normal/front/3/4/3474289a-193e-452d-b248-e53ee99e22c0.jpg?1572490235">Samurai</set>
+    </card>
+    <card>
+      <name>Risona, Asari Commander</name>
+      <text>Haste
+Whenever Risona, Asari Commander deals combat damage to a player, if it doesn't have an indestructible counter on it, put an indestructible counter on it.
+Whenever combat damage is dealt to you, remove an indestructible counter from Risona.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Legendary Creature — Human Samurai</type>
+          <manacost>{1}{R}{W}</manacost>
+          <cmc>3.0</cmc>
+          <colors>RW</colors>
+          <coloridentity>RW</coloridentity>
+          <pt>3/3</pt>
+
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="44c4839f-c92a-4535-817b-1838c47fcb5e" num="425" muid="" picurl="https://cards.scryfall.io/normal/front/6/4/64a3d9fd-4023-4f64-b31c-8dab1eec8566.jpg?1683836536">Samurai</set>
+    </card>
+    <card>
+      <name>Sacred Foundry</name>
+      <text>({T}: Add {R} or {W}.)
+As Sacred Foundry enters, you may pay 2 life. If you don't, it enters tapped.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Land — Mountain Plains</type>
+          <manacost></manacost>
+          <cmc>0.0</cmc>
+          <colors></colors>
+          <coloridentity>RW</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="45181cb8-2090-4471-ba90-e5a8f04d525f" num="254p" muid="" picurl="https://cards.scryfall.io/normal/front/6/f/6f14106d-13e5-4d38-b22d-a6c466b757bb.jpg?1570826940">Samurai</set>
+    </card>
+    <card>
+      <name>Savai Triome</name>
+      <text>({T}: Add {R}, {W}, or {B}.)
+Savai Triome enters tapped.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Land — Mountain Plains Swamp</type>
+          <manacost></manacost>
+          <cmc>0.0</cmc>
+          <colors></colors>
+          <coloridentity>BRW</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="00625242-9348-4ef4-b975-f2ac82fee21d" num="253p" muid="" picurl="https://cards.scryfall.io/normal/front/b/3/b3693bf9-51d0-4508-bb9a-6de3ee44daab.jpg?1591310644">Samurai</set>
+    </card>
+    <card>
+      <name>Secluded Courtyard</name>
+      <text>As Secluded Courtyard enters, choose a creature type.
+{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type or activate an ability of a creature source of the chosen type.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Land</type>
+          <manacost></manacost>
+          <cmc>0.0</cmc>
+          <colors></colors>
+          <coloridentity></coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="79ba18fd-f184-43c1-86df-56ee18ce806c" num="275" muid="548588" picurl="https://cards.scryfall.io/normal/front/0/5/0539b1a5-8704-476f-ba1f-2fe01190e157.jpg?1654568998">Samurai</set>
+    </card>
+    <card>
+      <name>Selfless Samurai</name>
+      <text>Whenever a Samurai or Warrior you control attacks alone, it gains lifelink until end of turn.
+Sacrifice Selfless Samurai: Another target creature you control gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Creature — Fox Samurai</type>
+          <manacost>{1}{W}</manacost>
+          <cmc>2.0</cmc>
+          <colors>W</colors>
+          <coloridentity>W</coloridentity>
+          <pt>2/2</pt>
+
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="20c9fb06-3941-456f-ba02-4fbde9deb1e2" num="312" muid="553221" picurl="https://cards.scryfall.io/normal/front/8/2/82f1ade5-06ff-41ab-9a68-bf901959b01f.jpg?1654569237">Samurai</set>
+    </card>
+    <card>
+      <name>Sensei Golden-Tail</name>
+      <text>Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)
+{1}{W}, {T}: Put a training counter on target creature. That creature gains bushido 1 and becomes a Samurai in addition to its other creature types. Activate only as a sorcery.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Legendary Creature — Fox Samurai</type>
+          <manacost>{1}{W}</manacost>
+          <cmc>2.0</cmc>
+          <colors>W</colors>
+          <coloridentity>W</coloridentity>
+          <pt>2/1</pt>
+
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="63305fd4-068f-498b-a01e-0b375c592797" num="44" muid="78683" picurl="https://cards.scryfall.io/normal/front/b/9/b93dd897-3fb5-48b1-bdff-9383ce1feb21.jpg?1562763745">Samurai</set>
+    </card>
+    <card>
+      <name>Seven-Tail Mentor</name>
+      <text>When Seven-Tail Mentor enters or dies, put a +1/+1 counter on target creature or Vehicle you control.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Creature — Fox Samurai</type>
+          <manacost>{3}{W}</manacost>
+          <cmc>4.0</cmc>
+          <colors>W</colors>
+          <coloridentity>W</coloridentity>
+          <pt>2/3</pt>
+
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="301b8265-9e17-48c3-942d-b7243112b394" num="313" muid="553222" picurl="https://cards.scryfall.io/normal/front/2/6/267efff1-cbe6-40b0-959e-72b81cbda1d0.jpg?1654569244">Samurai</set>
+    </card>
+    <card>
+      <name>Shattered Sanctum</name>
+      <text>Shattered Sanctum enters tapped unless you control two or more other lands.
+{T}: Add {W} or {B}.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Land</type>
+          <manacost></manacost>
+          <cmc>0.0</cmc>
+          <colors></colors>
+          <coloridentity>BW</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="c854ecb0-cc60-4c48-a9aa-7f2348a7a8c6" num="264" muid="541140" picurl="https://cards.scryfall.io/normal/front/a/d/ad44c9aa-eb8f-4200-8dfe-2af728d80083.jpg?1655879804">Samurai</set>
+    </card>
+    <card>
+      <name>Shinka, the Bloodsoaked Keep</name>
+      <text>{T}: Add {R}.
+{R}, {T}: Target legendary creature gains first strike until end of turn.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Legendary Land</type>
+          <manacost></manacost>
+          <cmc>0.0</cmc>
+          <colors></colors>
+          <coloridentity>R</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="255b937f-c9c9-4ae9-815e-17418eba0602" num="282" muid="79121" picurl="https://cards.scryfall.io/normal/front/d/2/d2d5f30e-cc3a-46c1-82a9-2cd73705b2f5.jpg?1562764666">Samurai</set>
+    </card>
+    <card>
+      <name>Sigil of Valor</name>
+      <text>Whenever equipped creature attacks alone, it gets +1/+1 until end of turn for each other creature you control.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Artifact — Equipment</type>
+          <manacost>{2}</manacost>
+          <cmc>2.0</cmc>
+          <colors></colors>
+          <coloridentity></coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="b9447f25-f285-4b62-8976-4a49363dfdd7" num="239" muid="398515" picurl="https://cards.scryfall.io/normal/front/f/1/f134f242-cbb5-4a3d-bfd4-46e8b8669b4b.jpg?1562049228">Samurai</set>
+    </card>
+    <card>
+      <name>Sky-Blessed Samurai</name>
+      <text>This spell costs {1} less to cast for each enchantment you control.
+Flying</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Enchantment Creature — Human Samurai</type>
+          <manacost>{6}{W}</manacost>
+          <cmc>7.0</cmc>
+          <colors>W</colors>
+          <coloridentity>W</coloridentity>
+          <pt>4/4</pt>
+
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="dad767d4-e7d4-4fe0-8a18-bb434c5268eb" num="314" muid="553223" picurl="https://cards.scryfall.io/normal/front/9/1/91d6a843-a1b7-4862-a2bf-8f8f66788126.jpg?1654569261">Samurai</set>
+    </card>
+    <card>
+      <name>Sol Ring</name>
+      <text>{T}: Add {C}{C}.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Artifact</type>
+          <manacost>{1}</manacost>
+          <cmc>1.0</cmc>
+          <colors></colors>
+          <coloridentity></coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>not_legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="6ad8011d-3471-4369-9d68-b264cc027487" num="161" muid="554243" picurl="https://cards.scryfall.io/normal/front/3/9/3917f744-b876-47ae-94ad-f72b215ff1e7.jpg?1651656383">Samurai</set>
+    </card>
+    <card>
+      <name>Sunblade Samurai</name>
+      <text>Vigilance
+Channel — {2}, Discard Sunblade Samurai: Search your library for a basic Plains card, reveal it, put it into your hand, then shuffle. You gain 2 life.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Enchantment Creature — Human Samurai</type>
+          <manacost>{4}{W}</manacost>
+          <cmc>5.0</cmc>
+          <colors>W</colors>
+          <coloridentity>W</coloridentity>
+          <pt>4/4</pt>
+
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="b767bd0a-a8fe-49d7-a3e7-4f9ac6a3280f" num="315" muid="553224" picurl="https://cards.scryfall.io/normal/front/a/3/a32e2ad3-c5fb-4072-aabf-6cb9538db3ca.jpg?1654569262">Samurai</set>
+    </card>
+    <card>
+      <name>Sundown Pass</name>
+      <text>Sundown Pass enters tapped unless you control two or more other lands.
+{T}: Add {R} or {W}.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Land</type>
+          <manacost></manacost>
+          <cmc>0.0</cmc>
+          <colors></colors>
+          <coloridentity>RW</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="5ad0b405-cca4-475e-985c-4d7e3599d87e" num="266" muid="541142" picurl="https://cards.scryfall.io/normal/front/8/f/8f3fddd7-ede4-41c7-a645-a6af298a3d35.jpg?1655879812">Samurai</set>
+    </card>
+    <card>
+      <name>Sunhome, Fortress of the Legion</name>
+      <text>{T}: Add {C}.
+{2}{R}{W}, {T}: Target creature gains double strike until end of turn.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Land</type>
+          <manacost></manacost>
+          <cmc>0.0</cmc>
+          <colors></colors>
+          <coloridentity>RW</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="a9f8344c-1705-4254-81d6-aa05e0c69c29" num="319" muid="519354" picurl="https://cards.scryfall.io/normal/front/1/5/15e9f92d-638d-46c2-9f8e-f741db1a4a40.jpg?1625981077">Samurai</set>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <text>({T}: Add {B}.)</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Basic Land — Swamp</type>
+          <manacost></manacost>
+          <cmc>0.0</cmc>
+          <colors></colors>
+          <coloridentity>B</coloridentity>
+          
+          <format-standard>legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="56719f6a-1a6c-4c0a-8d21-18f7d7350b68" num="297" muid="553574" picurl="https://cards.scryfall.io/normal/front/c/5/c50b3d79-2361-4858-98b0-64d83c4f7f70.jpg?1655495412">Samurai</set>
+    </card>
+    <card>
+      <name>Swiftfoot Boots</name>
+      <text>Equipped creature has hexproof and haste. (It can't be the target of spells or abilities your opponents control.)
+Equip {1}</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Artifact — Equipment</type>
+          <manacost>{2}</manacost>
+          <cmc>2.0</cmc>
+          <colors></colors>
+          <coloridentity></coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="c8b143ad-43ec-4e0d-a440-e348daa31391" num="163" muid="554245" picurl="https://cards.scryfall.io/normal/front/e/e/ee23ba9f-3f5e-4fe4-95f8-3dd464db997b.jpg?1651656405">Samurai</set>
+    </card>
+    <card>
+      <name>Sword of the Animist</name>
+      <text>Equipped creature gets +1/+1.
+Whenever equipped creature attacks, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Equip {2}</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Legendary Artifact — Equipment</type>
+          <manacost>{2}</manacost>
+          <cmc>2.0</cmc>
+          <colors></colors>
+          <coloridentity></coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="d79cbc61-6c15-48ea-bbba-3cffb819ccba" num="240" muid="398492" picurl="https://cards.scryfall.io/normal/front/f/3/f3687c36-c0ae-4dba-9379-b420236bf529.jpg?1562049757">Samurai</set>
+    </card>
+    <card>
+      <name>Swords to Plowshares</name>
+      <text>Exile target creature. Its controller gains life equal to its power.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Instant</type>
+          <manacost>{W}</manacost>
+          <cmc>1.0</cmc>
+          <colors>W</colors>
+          <coloridentity>W</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>not_legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="b1544f21-7e98-461b-aed5-e748b0168c52" num="73" muid="" picurl="https://cards.scryfall.io/normal/front/a/5/a5d364f3-e3e7-46fb-8273-aabd56ded0c5.jpg?1624322429">Samurai</set>
+    </card>
+    <card>
+      <name>Takenuma, Abandoned Mire</name>
+      <text>{T}: Add {B}.
+Channel — {3}{B}, Discard Takenuma, Abandoned Mire: Mill three cards, then return a creature or planeswalker card from your graveyard to your hand. This ability costs {1} less to activate for each legendary creature you control.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Legendary Land</type>
+          <manacost></manacost>
+          <cmc>0.0</cmc>
+          <colors></colors>
+          <coloridentity>B</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="ac2dd694-d2f1-4025-8400-12332bdc882a" num="416" muid="552126" picurl="https://cards.scryfall.io/normal/front/7/b/7bc98705-77c2-47b6-b41c-3e41578700e8.jpg?1647145118">Samurai</set>
+    </card>
+    <card>
+      <name>Tempered in Solitude</name>
+      <text>Whenever a creature you control attacks alone, exile the top card of your library. You may play that card this turn.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Enchantment</type>
+          <manacost>{1}{R}</manacost>
+          <cmc>2.0</cmc>
+          <colors>R</colors>
+          <coloridentity>R</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="f4aedfd3-4414-493c-bbba-75db301c0737" num="165" muid="548470" picurl="https://cards.scryfall.io/normal/front/2/c/2cfd0693-6dba-4c0d-8c42-859d7bf38c40.jpg?1654567875">Samurai</set>
+    </card>
+    <card>
+      <name>Terminate</name>
+      <text>Destroy target creature. It can't be regenerated.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Instant</type>
+          <manacost>{B}{R}</manacost>
+          <cmc>2.0</cmc>
+          <colors>BR</colors>
+          <coloridentity>BR</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="6257c2fd-005f-41e3-8a72-af76df1eb134" num="199" muid="433131" picurl="https://cards.scryfall.io/normal/front/d/5/d55fe100-bbc5-49f8-ab64-5bd0b34f325f.jpg?1562625179">Samurai</set>
+    </card>
+    <card>
+      <name>The Wandering Emperor</name>
+      <text>Flash
+As long as The Wandering Emperor entered this turn, you may activate her loyalty abilities any time you could cast an instant.
++1: Put a +1/+1 counter on up to one target creature. It gains first strike until end of turn.
+−1: Create a 2/2 white Samurai creature token with vigilance.
+−2: Exile target tapped creature. You gain 2 life.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Legendary Planeswalker</type>
+          <manacost>{2}{W}{W}</manacost>
+          <cmc>4.0</cmc>
+          <colors>W</colors>
+          <coloridentity>W</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="mythic" uuid="0c7f18d5-36cb-4bc6-a358-443b97666215" num="418" muid="" picurl="https://cards.scryfall.io/normal/front/2/2/22edc832-993b-432a-8435-8d8a72799122.jpg?1683836700">Samurai</set>
+    </card>
+    <card>
+      <name>Toshiro Umezawa</name>
+      <text>Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)
+Whenever a creature an opponent controls dies, you may cast target instant card from your graveyard. If that spell would be put into a graveyard, exile it instead.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Legendary Creature — Human Samurai</type>
+          <manacost>{1}{B}{B}</manacost>
+          <cmc>3.0</cmc>
+          <colors>B</colors>
+          <coloridentity>B</coloridentity>
+          <pt>2/2</pt>
+
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="11838086-db2f-4588-ae18-4129c9e2b67d" num="261" muid="" picurl="https://cards.scryfall.io/normal/front/b/b/bb8da57c-88ff-4fea-b19e-856a4c89cb8e.jpg?1682694452">Samurai</set>
+    </card>
+    <card>
+      <name>Trepanation Blade</name>
+      <text>Whenever equipped creature attacks, defending player reveals cards from the top of their library until they reveal a land card. The creature gets +1/+0 until end of turn for each card revealed this way. That player puts the revealed cards into their graveyard.
+Equip {2}</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Artifact — Equipment</type>
+          <manacost>{3}</manacost>
+          <cmc>3.0</cmc>
+          <colors></colors>
+          <coloridentity></coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="f0031ef3-d5f5-4114-97aa-4beabd11ff8d" num="231" muid="438797" picurl="https://cards.scryfall.io/normal/front/6/b/6b1bab36-3fb7-48f3-b3ed-90863d244641.jpg?1562849914">Samurai</set>
+    </card>
+    <card>
+      <name>Unclaimed Territory</name>
+      <text>As Unclaimed Territory enters, choose a creature type.
+{T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Land</type>
+          <manacost></manacost>
+          <cmc>0.0</cmc>
+          <colors></colors>
+          <coloridentity></coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="584b15f2-6ae9-413a-8b8d-9244dbea4878" num="188" muid="545808" picurl="https://cards.scryfall.io/normal/front/6/0/6037414e-8fa6-48df-bcd6-f5be022bf4af.jpg?1641604546">Samurai</set>
+    </card>
+    <card>
+      <name>Unquenchable Fury</name>
+      <text>Enchant creature
+Enchanted creature has "Whenever this creature attacks, it deals X damage to defending player, where X is the number of cards in their hand."
+When Unquenchable Fury is put into your graveyard from the battlefield, return it to your hand.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Enchantment — Aura</type>
+          <manacost>{2}{R}</manacost>
+          <cmc>3.0</cmc>
+          <colors>R</colors>
+          <coloridentity>R</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>not_legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="1c69a41e-122a-42c1-98d4-56035d68cfc8" num="63" muid="553736" picurl="https://cards.scryfall.io/normal/front/4/6/468864b4-d10f-4920-af05-ba107fe54a25.jpg?1648863281">Samurai</set>
+    </card>
+    <card>
+      <name>Upriser Renegade</name>
+      <text>Upriser Renegade gets +2/+0 for each other modified creature you control. (Equipment, Auras you control, and counters are modifications.)</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Creature — Human Samurai</type>
+          <manacost>{1}{R}</manacost>
+          <cmc>2.0</cmc>
+          <colors>R</colors>
+          <coloridentity>R</coloridentity>
+          <pt>1/3</pt>
+
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="9f9b3ef8-e0ce-4906-96b3-a7727d7cc662" num="324" muid="553233" picurl="https://cards.scryfall.io/normal/front/5/2/52af0f2d-de2e-4554-ae32-c88bc7ba7c71.jpg?1654569346">Samurai</set>
+    </card>
+    <card>
+      <name>Vampiric Tutor</name>
+      <text>Search your library for a card, then shuffle and put that card on top. You lose 2 life.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Instant</type>
+          <manacost>{B}</manacost>
+          <cmc>1.0</cmc>
+          <colors>B</colors>
+          <coloridentity>B</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>not_legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="mythic" uuid="ededbdae-d9dc-4206-9335-d7158f2d7700" num="156" muid="497676" picurl="https://cards.scryfall.io/normal/front/1/8/18bd50f2-c3ba-4217-a2d5-bb771e199706.jpg?1608910005">Samurai</set>
+    </card>
+    <card>
+      <name>Vandalblast</name>
+      <text>Destroy target artifact you don't control.
+Overload {4}{R} (You may cast this spell for its overload cost. If you do, change "target" in its text to "each.")</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Sorcery</type>
+          <manacost>{R}</manacost>
+          <cmc>1.0</cmc>
+          <colors>R</colors>
+          <coloridentity>R</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="uncommon" uuid="3567c3c8-b3c7-45b7-935b-b1fdbc973720" num="111" muid="253560" picurl="https://cards.scryfall.io/normal/front/5/9/5925c559-3e3c-481b-ba95-20a405cbffce.jpg?1562786728">Samurai</set>
+    </card>
+    <card>
+      <name>Vindicate</name>
+      <text>Destroy target permanent.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Sorcery</type>
+          <manacost>{1}{W}{B}</manacost>
+          <cmc>3.0</cmc>
+          <colors>BW</colors>
+          <coloridentity>BW</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>not_legal</format-pauper>
+      </prop>
+      <set rarity="rare" uuid="63c1ac21-e3d8-40c2-8c09-3f31c52992ef" num="294" muid="526265" picurl="https://cards.scryfall.io/normal/front/6/8/683c4e13-525c-45c9-8832-bfe67965c34e.jpg?1626100840">Samurai</set>
+    </card>
+    <card>
+      <name>Wind-Scarred Crag</name>
+      <text>Wind-Scarred Crag enters tapped.
+When Wind-Scarred Crag enters, you gain 1 life.
+{T}: Add {R} or {W}.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Land</type>
+          <manacost></manacost>
+          <cmc>0.0</cmc>
+          <colors></colors>
+          <coloridentity>RW</coloridentity>
+          
+          <format-standard>legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="b0af0c54-2a59-4075-8543-d41ff20c4c87" num="249" muid="413791" picurl="https://cards.scryfall.io/normal/front/9/a/9a34e90d-6b79-448a-8f90-05733139207e.jpg?1580015386">Samurai</set>
+    </card>
+    <card>
+      <name>You Are Already Dead</name>
+      <text>Destroy target creature that was dealt damage this turn.
+Draw a card.</text>
+      <prop>
+          <layout>normal</layout>
+          <side>front</side>
+          <type>Instant</type>
+          <manacost>{B}</manacost>
+          <cmc>1.0</cmc>
+          <colors>B</colors>
+          <coloridentity>B</coloridentity>
+          
+          <format-standard>not_legal</format-standard>
+          <format-commander>legal</format-commander>
+          <format-modern>legal</format-modern>
+          <format-pauper>legal</format-pauper>
+      </prop>
+      <set rarity="common" uuid="c1157d79-38ea-4a88-b346-7b12614ff78a" num="129" muid="548431" picurl="https://cards.scryfall.io/normal/front/7/6/768727ce-4f84-4527-8d69-3c9b7877b748.jpg?1654567474">Samurai</set>
+    </card>
+  </cards>
+</cockatrice_carddatabase>

@@ -1,3 +1,18 @@
+var log = document.querySelector('#log');
+
+['log','warn','error'].forEach(function (verb) {
+    console[verb] = (function (method, verb, log) {
+        return function (text) {
+            method(text);
+            // handle distinguishing between methods any way you'd like
+            var msg = document.createElement('code');
+            msg.classList.add(verb);
+            msg.textContent = verb + ': ' + text;
+            log.appendChild(msg);
+        };
+    })(console[verb].bind(console), verb, log);
+});
+
 var deck_name = ""
 
 function save(filename, data) {
@@ -32,26 +47,27 @@ async function get_from_scryfall(set, num){
 
 function parse_card_line(card){
 
-    var deck_site = document.querySelector('input[name="deck_site"]:checked').value
-    var reg;
-
-    if(deck_site == "moxfield"){
-        reg = /(\d)\s(\S.+)\s\((\S.+)\)\s([^\s]+).*/g
-    }else if(deck_site == "archidekt"){
-        reg = /(\d)\S\s(\S.+)\s\((\S.+)\)\s([^\s]+).*/g
+    try{
+        var deck_site = document.querySelector('input[name="deck_site"]:checked').value
+        var reg;
+    
+        if(deck_site == "moxfield"){
+            reg = /(\d)\s(\S.+)\s\((\S.+)\)\s([^\s]+).*/g
+        }else if(deck_site == "archidekt"){
+            reg = /(\d)\S\s(\S.+)\s\((\S.+)\)\s([^\s]+).*/g
+        }
+    
+        //const reg = /(\d)\s(\S.+)\s\((\S.+)\)\s([^\s]+).*/g
+        //return card.replace(reg, '$1').split("/#/")
+        const array = [...card.matchAll(reg)]
+        array[0].shift()
+        return array[0]
+    }catch(error){
+        console.error(error)
     }
-
-    //const reg = /(\d)\s(\S.+)\s\((\S.+)\)\s([^\s]+).*/g
-    //return card.replace(reg, '$1').split("/#/")
-    const array = [...card.matchAll(reg)]
-    array[0].shift()
-    return array[0]
 }
 
 function parse_to_cock(sj){
-
-    console.log(sj)
-    console.log(sj["layout"])
 
     if(["transform", "modal_dfc", "double_faced_token", "reversible_card"].includes(sj["layout"])){
         var front = sj["card_faces"]["0"]
@@ -143,13 +159,10 @@ async function download(){
   </cards>
 </cockatrice_carddatabase>`
 
-    //console.log(deck_list)
 
     const cards = []
     for(line in deck_list){
-        console.log(deck_list[line].length > 0)
         if(deck_list[line].length > 0){
-            console.log(deck_list[line])
             //console.log("Line: " + deck_list[line])
             var sanitized = parse_card_line(deck_list[line])
             var scryfall_data = await get_from_scryfall(sanitized[2], sanitized[3])

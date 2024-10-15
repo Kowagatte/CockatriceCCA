@@ -14,6 +14,11 @@
         <form action="javascript:download()">
             <label for="deck_name">Deck Name:</label>
             <input type="text" id="deck_name" name="deck_name"/><br><br>
+            <label for="deck_site">Deck site:</label><br>
+            <label for="moxfield">Moxfield</label>
+            <input type="radio" id="moxfield" name="deck_site" value="moxfield">
+            <label for="archidekt">Archidekt</label>
+            <input type="radio" id="archidekt" name="deck_site" value="archidekt"/><br><br>
             <label for="deck_list">Deck List:</label><br>
             <textarea type="text" id="deck_list" name="deck_list" rows="30" cols="50">Enter a deck list here.</textarea><br><br>
             <input type="submit" value="Download"/>
